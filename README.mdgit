@@ -1,0 +1,2 @@
+"# scratchiemod"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/SCRATCHIEMOD/scratchiemod.gitgit push -u origin main
+"# scratchiemod"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/SCRATCHIEMOD/scratchiemod.gitgit push -u origin main
